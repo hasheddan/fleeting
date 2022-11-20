@@ -21,7 +21,7 @@ Sound impossible? We don't think so.
 
 The secret of fleeting is that it actually isn't a cloud provider (in the
 traditional sense) at all. All infrastructure runs on your machine. This is
-acclompished by harnessing the power of your web browser, which turns out to be
+accomplished by harnessing the power of your web browser, which turns out to be
 a ubiqutous general purpose computing platform.
 
 fleeting uses organizational units called "fleets" to group infrastructure and
